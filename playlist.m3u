@@ -1,0 +1,269 @@
+#EXTM3U
+
+# =====================================================
+# BOSNIA AND HERZEGOVINA
+# =====================================================
+
+#EXTINF:-1 tvg-id="BHRT.ba@SD" group-title="Bosnia and Herzegovina",BHRT (geo-blocked)
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:-1 tvg-id="BHRT.ba@SD" group-title="Bosnia and Herzegovina",BHRT (alt 270p, geo-blocked)
+https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
+#EXTINF:-1 tvg-id="BHT1.ba" group-title="Bosnia and Herzegovina",BHT 1 (HD)
+https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
+#EXTINF:-1 tvg-id="BHT1.ba" group-title="Bosnia and Herzegovina",BHT 1 (SD/alt)
+https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
+#EXTINF:-1 tvg-id="Federalnatelevizija.ba@SD" group-title="Bosnia and Herzegovina",Federalna televizija (FTV)
+http://94.250.2.6:7374/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="Federalnatelevizija.ba@SD" group-title="Bosnia and Herzegovina",Federalna televizija (FTV alt)
+http://185.81.240.65:15000/udp/233.233.233.39:12000
+#EXTINF:-1 tvg-id="RTRSTV.ba" group-title="Bosnia and Herzegovina",RTRS TV
+https://parh.rtrs.tv/tv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RTRSTV.ba" group-title="Bosnia and Herzegovina",RTRS TV (alt)
+https://uzivo.rtrs.tv/tv/live/index.m3u8
+#EXTINF:-1 tvg-id="RTRSplus.ba" group-title="Bosnia and Herzegovina",RTRS Plus
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVHB.ba" group-title="Bosnia and Herzegovina",RTV Herceg-Bosne (RTV HB)
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 tvg-id="N1BosniaHerzegovina.ba" group-title="Bosnia and Herzegovina",N1 Bosna i Hercegovina
+https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+#EXTINF:-1 tvg-id="BNTV.ba" group-title="Bosnia and Herzegovina",RTV BN
+https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
+#EXTINF:-1 tvg-id="RTVGlasDrine.ba" group-title="Bosnia and Herzegovina",RTV Glas Drine
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTKidsTV.ba" group-title="Bosnia and Herzegovina",TNT Kids
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+#EXTINF:-1 tvg-id="Kanal6.ba" group-title="Bosnia and Herzegovina",Kanal 6
+https://restreamer1.tnt.ba/hls/kanal6.m3u8
+#EXTINF:-1 tvg-id="Televizija5.ba" group-title="Bosnia and Herzegovina",Televizija 5
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-id="SuperTV.ba@SD" group-title="Bosnia and Herzegovina",Super TV Media (Mirtv)
+https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:-1 tvg-id="TelevizijaM.ba@SD" group-title="Bosnia and Herzegovina",Televizija M
+https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:-1 group-title="Bosnia and Herzegovina",Neon TV (RTSP)
+rtsp://185.50.56.16:554/neontelvizija
+#EXTINF:-1 tvg-id="RTVZenica.ba" group-title="Bosnia and Herzegovina",RTV Zenica (RTV ZE)
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-id="RTVBPK.ba" group-title="Bosnia and Herzegovina",TV BPK Goražde
+http://94.250.2.6:7374/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="TVSlonExtra.ba" group-title="Bosnia and Herzegovina",TV Slon Extra
+http://31.47.0.130:8082
+#EXTINF:-1 group-title="Bosnia and Herzegovina",Malta (BH Telecom)
+https://webtvstream.bhtelecom.ba/malta.m3u8
+#EXTINF:-1 tvg-id="MariaPlusVisionMedjugorje.ba" group-title="Bosnia and Herzegovina",María+Visión Medjugorje
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsmaxBalkans.ba" group-title="Bosnia and Herzegovina",Newsmax Balkans
+https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
+
+# =====================================================
+# CROATIA
+# =====================================================
+
+#EXTINF:-1 tvg-id="HRT1.hr@SD" group-title="Croatia",HRT 1 (SD via BH Telecom)
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+#EXTINF:-1 tvg-id="HRT1.hr@HD" group-title="Croatia",HRT 1 HD (geo-blocked DASH)
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+#EXTINF:-1 tvg-id="HRT2.hr@SD" group-title="Croatia",HRT 2 (SD via BH Telecom)
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+#EXTINF:-1 tvg-id="HRT2.hr@HD" group-title="Croatia",HRT 2 HD (geo-blocked DASH)
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+#EXTINF:-1 tvg-id="HRT3.hr@SD" group-title="Croatia",HRT 3 (SD via BH Telecom)
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 tvg-id="HRT3.hr@HD" group-title="Croatia",HRT 3 HD (geo-blocked DASH)
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+#EXTINF:-1 tvg-id="HRT4.hr@HD" group-title="Croatia",HRT 4 HD (geo-blocked DASH)
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+#EXTINF:-1 tvg-id="RTLCroatia.hr" group-title="Croatia",RTL Croatia
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL2Croatia.hr" group-title="Croatia",RTL 2
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLKockica.hr" group-title="Croatia",RTL Kockica
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+#EXTINF:-1 tvg-id="NovaTV.hr" group-title="Croatia",Nova TV
+http://176.61.157.250/NovaTV/index.m3u8
+#EXTINF:-1 tvg-id="SportskaTV.hr" group-title="Croatia",Sportska televizija
+https://stream.agatin.hr:3087/live/sptvlive.m3u8
+#EXTINF:-1 tvg-id="CMCTV.hr" group-title="Croatia",CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-id="KlapeiTambureTV.hr" group-title="Croatia",Klape i Tambure TV
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 tvg-id="PlavaVinkovacka.hr" group-title="Croatia",Plava Vinkovačka
+https://player-api.new.livestream.com/accounts/26611954/events/7977299/broadcasts/237205435.secure.m3u8
+#EXTINF:-1 tvg-id="STV.hr" group-title="Croatia",Televizija Slavonije i Baranje (STV)
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 tvg-id="OSTV.hr" group-title="Croatia",Osječka televizija (OSTV)
+https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcasts/237202062.secure.m3u8
+#EXTINF:-1 tvg-id="SBTV.hr" group-title="Croatia",SBTV
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:-1 tvg-id="OTV.hr" group-title="Croatia",OTV
+https://stream.agatin.hr:3559/live/otvlive.m3u8
+#EXTINF:-1 tvg-id="KanalRi.hr" group-title="Croatia",Kanal Ri
+https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u8
+#EXTINF:-1 tvg-id="TVNova.hr" group-title="Croatia",TV Nova
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 tvg-id="DiadoraTV.hr" group-title="Croatia",Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJadran.hr" group-title="Croatia",TV Jadran
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-id="LibertasTV.hr" group-title="Croatia",Libertas TV
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-id="TrendTV.hr" group-title="Croatia",Trend TV
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVZapad.hr" group-title="Croatia",Televizija Zapad (variant 1)
+http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="TVZapad.hr" group-title="Croatia",Televizija Zapad (variant 2)
+http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
+#EXTINF:-1 group-title="Croatia",National Geographic (localized feed)
+http://176.61.157.250/NationalGeographic/index.m3u8
+#EXTINF:-1 group-title="Croatia",Nickelodeon (localized feed)
+http://176.61.157.250/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Croatia",Nick Jr. (localized feed)
+http://176.61.157.250/NickJr/index.m3u8
+#EXTINF:-1 group-title="Croatia",Shift TV
+https://hls.shift.tv/live/shifttv/playlist.m3u8
+#EXTINF:-1 group-title="Croatia",Radio Televizija Banovina
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
+#EXTINF:-1 group-title="Croatia",Klasik TV
+https://178.253.194.105/klasiktv/playlist.m3u8
+#EXTINF:-1 group-title="Croatia",Bravo! Kids TV
+https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
+
+# =====================================================
+# SERBIA
+# =====================================================
+
+#EXTINF:-1 tvg-id="RTS1.rs" group-title="Serbia",RTS 1 (via BH Telecom)
+https://webtvstream.bhtelecom.ba/rts1.m3u8
+#EXTINF:-1 tvg-id="RTS1.rs" group-title="Serbia",RTS 1 (alt)
+https://de1.dstv.cx/RTS1HD/index.m3u8
+#EXTINF:-1 tvg-id="RTS2.rs" group-title="Serbia",RTS 2 (via BH Telecom)
+https://webtvstream.bhtelecom.ba/rts2.m3u8
+#EXTINF:-1 tvg-id="RTS2.rs" group-title="Serbia",RTS 2 (alt)
+https://de1.dstv.cx/RTS2HD/index.m3u8
+#EXTINF:-1 tvg-id="RTS3.rs" group-title="Serbia",RTS 3 (via BH Telecom)
+https://webtvstream.bhtelecom.ba/rts_sat.m3u8
+#EXTINF:-1 tvg-id="RTS3.rs" group-title="Serbia",RTS 3 (alt)
+http://185.81.240.65:15000/udp/233.233.233.36:12000
+#EXTINF:-1 tvg-id="RTSSvet.rs" group-title="Serbia",RTS Svet
+https://webtvstream.bhtelecom.ba/rts_svet.m3u8
+#EXTINF:-1 tvg-id="RTSSvet.rs" group-title="Serbia",RTS Svet (alt)
+https://de1.dstv.cx/RTSSvet/index.m3u8
+#EXTINF:-1 tvg-id="RTSDrama.rs" group-title="Serbia",RTS Drama
+https://de1.dstv.cx/RTSDrama/index.m3u8
+#EXTINF:-1 tvg-id="RTSKolo.rs" group-title="Serbia",RTS Kolo
+https://de1.dstv.cx/RTSKolo/index.m3u8
+#EXTINF:-1 tvg-id="RTSMuzika.rs" group-title="Serbia",RTS Muzika
+https://de1.dstv.cx/RTSMuzika/index.m3u8
+#EXTINF:-1 tvg-id="RTSTrezor.rs" group-title="Serbia",RTS Trezor
+https://de1.dstv.cx/RTSTrezor/index.m3u8
+#EXTINF:-1 tvg-id="RTSZivot.rs" group-title="Serbia",RTS Zivot
+https://de1.dstv.cx/RTSZivot/index.m3u8
+#EXTINF:-1 tvg-id="RTSPoletarac.rs" group-title="Serbia",RTS Poletarac
+https://de1.dstv.cx/RTSPoletarac/index.m3u8
+#EXTINF:-1 tvg-id="RTV1.rs" group-title="Serbia",RTV 1 (RTSP)
+rtsp://212.200.255.151/rtv1
+#EXTINF:-1 tvg-id="RTV1.rs" group-title="Serbia",RTV 1 (MMSh)
+mmsh://212.200.255.151/rtv1
+#EXTINF:-1 tvg-id="RTV2.rs" group-title="Serbia",RTV 2 (RTSP)
+rtsp://212.200.255.151/rtv2
+#EXTINF:-1 tvg-id="RTV2.rs" group-title="Serbia",RTV 2 (MMSh)
+mmsh://212.200.255.151/rtv2
+#EXTINF:-1 group-title="Serbia",RTV Novi Pazar
+https://tv.rtvnp.rs/stream.m3u8
+#EXTINF:-1 tvg-id="Prva.rs" group-title="Serbia",Prva
+https://de1.dstv.cx/PrvaTVHD/index.m3u8
+#EXTINF:-1 tvg-id="PrvaPlus.rs" group-title="Serbia",Prva Plus
+https://de1.dstv.cx/PrvaPlus/index.m3u8
+#EXTINF:-1 tvg-id="PrvaMax.rs" group-title="Serbia",Prva Max
+https://de1.dstv.cx/PrvaMax/index.m3u8
+#EXTINF:-1 tvg-id="PrvaLife.rs" group-title="Serbia",Prva Life
+https://de1.dstv.cx/PrvaLife/index.m3u8
+#EXTINF:-1 tvg-id="PrvaWorld.rs" group-title="Serbia",Prva World
+https://de1.dstv.cx/PrvaWorld/index.m3u8
+#EXTINF:-1 tvg-id="PrvaKick.rs" group-title="Serbia",Prva Kick
+https://de1.dstv.cx/PrvaKick/index.m3u8
+#EXTINF:-1 tvg-id="PrvaFiles.rs" group-title="Serbia",Prva Files
+https://de1.dstv.cx/PrvaFiles/index.m3u8
+#EXTINF:-1 group-title="Serbia",Nova S (United Media)
+https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
+#EXTINF:-1 tvg-id="Pink.rs" group-title="Serbia",Pink
+https://edge8.pink.rs/pinktv/index.m3u8
+#EXTINF:-1 tvg-id="NarodnaTV.rs" group-title="Serbia",Narodna TV
+https://edge8.pink.rs/narodnatv/index.m3u8
+#EXTINF:-1 group-title="Serbia",Red TV
+https://edge8.pink.rs/redtv/index.m3u8
+#EXTINF:-1 group-title="Serbia",Informer TV
+https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8
+#EXTINF:-1 group-title="Serbia",Kurir TV
+https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
+#EXTINF:-1 group-title="Serbia",DM Sat
+https://shift03.isp.bg/DMSat/index.m3u8
+#EXTINF:-1 group-title="Serbia",DM Sat (alt UDP)
+http://85.14.32.26:8800/udp/239.100.10.40:5000
+#EXTINF:-1 group-title="Serbia",EDU TV
+https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
+#EXTINF:-1 group-title="Serbia",IDJ TV
+https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
+#EXTINF:-1 group-title="Serbia",Marsh TV
+http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
+#EXTINF:-1 group-title="Serbia",MIS Televizija
+https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Serbia",SOS Kanal Plus
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1 group-title="Serbia",Top TV
+http://82.165.71.58:8081/TopTV/live/playlist.m3u8
+#EXTINF:-1 group-title="Serbia",TV Belle Amie
+http://92.60.238.10:1935/live/belleamie/playlist.m3u8
+#EXTINF:-1 group-title="Serbia",TV Duga Plus
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:-1 group-title="Serbia",TV Hram
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1 group-title="Serbia",TV Kanal M
+http://176.67.210.1/hls/kanalm.m3u8
+#EXTINF:-1 group-title="Serbia",TV Pi Kanal
+https://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:-1 group-title="Serbia",TV Pirot
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+#EXTINF:-1 group-title="Serbia",ZICO TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
+#EXTINF:-1 group-title="Serbia",RTV Bap
+https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
+#EXTINF:-1 group-title="Serbia",Sandzak TV
+https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
+#EXTINF:-1 group-title="Serbia",TV Panon
+https://stream2.nmih.hu:4102/live.m3u8
+#EXTINF:-1 group-title="Serbia",TDI Radio TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
+#EXTINF:-1 group-title="Serbia",Radio Hit FM TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
+#EXTINF:-1 group-title="Serbia",Radio Karolina TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1 group-title="Serbia",Radio Lola
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+#EXTINF:-1 group-title="Serbia",Shift TV
+https://hls.shift.tv/live/shifttv/playlist.m3u8
+#EXTINF:-1 group-title="Serbia",Kitchen TV (may require matching ISP UA)
+http://213.91.179.28:8000/play/a03n
+#EXTINF:-1 group-title="Serbia",Sci Fi (localized via BH Telecom)
+https://webtvstream.bhtelecom.ba/sci-fi.m3u8
+#EXTINF:-1 group-title="Serbia",Arena Sport 1 Premium (sample 360p; may be unstable)
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
+
+# =====================================================
+# MONTENEGRO
+# =====================================================
+
+#EXTINF:-1 tvg-id="TVCG1.me" group-title="Montenegro",TVCG 1 (geo-blocked)
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCG2.me" group-title="Montenegro",TVCG 2 (geo-blocked)
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCG3.me" group-title="Montenegro",TVCG 3 (geo-blocked)
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCGMNE.me" group-title="Montenegro",TVCG MNE
+https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
+#EXTINF:-1 tvg-id="RadiotelevizijaRozaje.me" group-title="Montenegro",Radio televizija Rožaje
+https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
+#EXTINF:-1 tvg-id="TVNiksic.me" group-title="Montenegro",TV Niksic
+https://tv.rtv-niksic.me/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TVTeuta.me" group-title="Montenegro",TV Teuta
+http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
